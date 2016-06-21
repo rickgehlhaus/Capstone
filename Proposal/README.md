@@ -4,7 +4,7 @@
 Predict which customers of a website will become repeat buyers in order to increase Customer Lifetime Value.
 
 #### Who is your client and why do they care about this problem?
-Client is an ecommerce retailer who would like to decrease overall customer aquestion cost.
+Client is an ecommerce retailer who would like to decrease overall customer acquisition cost.
 
 #### What data are you going to use for this? How will you acquire this data?
 Kaggle data will be used from https://www.kaggle.com/c/acquire-valued-shoppers-challenge
