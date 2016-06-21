@@ -7,8 +7,10 @@ Predict which customers of a website will become repeat buyers in order to incre
 Client is an ecommerce retailer who would like to decrease overall customer aquestion cost.
 
 #### What data are you going to use for this? How will you acquire this data?
-Data will be provided from https://www.kaggle.com/c/acquire-valued-shoppers-challenge
+Kaggle data will be used from https://www.kaggle.com/c/acquire-valued-shoppers-challenge
 
 #### In brief, outline your approach to solving this problem
+After clean up of raw data, I will attempt to use the [XDA package](https://github.com/ujjwalkarn/xda/blob/master/README.md) for exploratory data analysis. Following this a best-fit multiple linear regression model will be created.
 
 #### What are your deliverables? Typically, this would include code, along with a paper and/or a slide deck.
+R code, visualizations using ggplot2, statistical model design, prediction with test data and Data Story via slide deck.
