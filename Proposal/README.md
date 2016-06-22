@@ -13,4 +13,4 @@ Kaggle data will be used from https://www.kaggle.com/c/acquire-valued-shoppers-c
 After clean up of raw data, I will attempt to use the [XDA package](https://github.com/ujjwalkarn/xda/blob/master/README.md) for exploratory data analysis. Following this a best-fit multiple linear regression model will be created.
 
 #### What are your deliverables? Typically, this would include code, along with a paper and/or a slide deck.
-R code, visualizations using ggplot2 and [ggthemes](https://github.com/jrnold/ggthemes), statistical model design, prediction with test data and Data Story via slide deck.
+R code, visualizations using ggplot2 and [ggthemes](https://github.com/jrnold/ggthemes), statistical model design, prediction with test data, and Data Story via slide deck.
