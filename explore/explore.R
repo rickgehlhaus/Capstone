@@ -1,0 +1,5 @@
+library(data.table)
+library(bit64)
+set.seed(11)
+tran <- fread("transactions.csv", nrows = 5000)
+str(tran)
